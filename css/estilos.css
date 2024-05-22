@@ -5,7 +5,13 @@ body {
     background-color: aquamarine;
 }
 
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
 li {
     padding: 20px;
+
 }
 
